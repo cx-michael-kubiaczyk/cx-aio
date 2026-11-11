@@ -1,5 +1,4 @@
-run.bat
+run*.bat
 .vscode
-cx_result.json
+cx_result*.json
 config.json
-run-repo.bat
