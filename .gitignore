@@ -1,3 +1,4 @@
 run.bat
 .vscode
-*.json
+cx_result.json
+config.json
